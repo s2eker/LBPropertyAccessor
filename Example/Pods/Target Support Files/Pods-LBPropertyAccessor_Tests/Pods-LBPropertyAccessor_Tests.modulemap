@@ -1,0 +1,6 @@
+framework module Pods_LBPropertyAccessor_Tests {
+  umbrella header "Pods-LBPropertyAccessor_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

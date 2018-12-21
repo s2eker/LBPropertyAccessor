@@ -1,0 +1,16 @@
+PODS:
+  - LBPropertyAccessor (0.1.0)
+
+DEPENDENCIES:
+  - LBPropertyAccessor (from `../`)
+
+EXTERNAL SOURCES:
+  LBPropertyAccessor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBPropertyAccessor: e2888d17bfce7ed034f4be9fcb42af554d9340b0
+
+PODFILE CHECKSUM: a4a2f83abef57da4c76f3adf75bd2b4bf8dcc244
+
+COCOAPODS: 1.5.3

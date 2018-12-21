@@ -1,0 +1,6 @@
+framework module LBPropertyAccessor {
+  umbrella header "LBPropertyAccessor-umbrella.h"
+
+  export *
+  module * { export * }
+}

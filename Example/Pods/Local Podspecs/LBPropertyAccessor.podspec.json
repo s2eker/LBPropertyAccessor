@@ -1,0 +1,22 @@
+{
+  "name": "LBPropertyAccessor",
+  "version": "0.1.0",
+  "summary": "A short description of LBPropertyAccessor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/s2eker/LBPropertyAccessor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "s2eker": "294842586@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/s2eker/LBPropertyAccessor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBPropertyAccessor/Classes/**/*"
+}

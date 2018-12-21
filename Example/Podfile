@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LBPropertyAccessor_Example' do
+  pod 'LBPropertyAccessor', :path => '../'
+
+  target 'LBPropertyAccessor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
