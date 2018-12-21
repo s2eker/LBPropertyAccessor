@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBPropertyAccessor'
-  s.version = '0.1.0'
+  s.version = '0.0.1'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.summary          = 'A easy way to access one object property.'
   s.homepage         = 'https://github.com/s2eker/LBPropertyAccessor'
